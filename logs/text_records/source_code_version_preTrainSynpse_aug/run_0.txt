@@ -1,0 +1,487 @@
+Successfully loaded: stem.position_embedding
+Successfully loaded: stem.model.res1.conv.0.conv.weight
+Successfully loaded: stem.model.res1.conv.0.bn.weight
+Successfully loaded: stem.model.res1.conv.0.bn.bias
+Successfully loaded: stem.model.res1.conv.0.bn.running_mean
+Successfully loaded: stem.model.res1.conv.0.bn.running_var
+Successfully loaded: stem.model.res1.conv.0.bn.num_batches_tracked
+Successfully loaded: stem.model.res1.conv.1.conv.weight
+Successfully loaded: stem.model.res1.conv.1.bn.weight
+Successfully loaded: stem.model.res1.conv.1.bn.bias
+Successfully loaded: stem.model.res1.conv.1.bn.running_mean
+Successfully loaded: stem.model.res1.conv.1.bn.running_var
+Successfully loaded: stem.model.res1.conv.1.bn.num_batches_tracked
+Successfully loaded: stem.model.res1.conv1.weight
+Successfully loaded: stem.model.res1.conv1.bias
+Successfully loaded: stem.model.res1.bn.weight
+Successfully loaded: stem.model.res1.bn.bias
+Successfully loaded: stem.model.res1.bn.running_mean
+Successfully loaded: stem.model.res1.bn.running_var
+Successfully loaded: stem.model.res1.bn.num_batches_tracked
+Successfully loaded: stem.model.res2.conv.0.conv.weight
+Successfully loaded: stem.model.res2.conv.0.bn.weight
+Successfully loaded: stem.model.res2.conv.0.bn.bias
+Successfully loaded: stem.model.res2.conv.0.bn.running_mean
+Successfully loaded: stem.model.res2.conv.0.bn.running_var
+Successfully loaded: stem.model.res2.conv.0.bn.num_batches_tracked
+Successfully loaded: stem.model.res2.conv.1.conv.weight
+Successfully loaded: stem.model.res2.conv.1.bn.weight
+Successfully loaded: stem.model.res2.conv.1.bn.bias
+Successfully loaded: stem.model.res2.conv.1.bn.running_mean
+Successfully loaded: stem.model.res2.conv.1.bn.running_var
+Successfully loaded: stem.model.res2.conv.1.bn.num_batches_tracked
+Successfully loaded: stem.model.res2.conv1.weight
+Successfully loaded: stem.model.res2.conv1.bias
+Successfully loaded: stem.model.res2.bn.weight
+Successfully loaded: stem.model.res2.bn.bias
+Successfully loaded: stem.model.res2.bn.running_mean
+Successfully loaded: stem.model.res2.bn.running_var
+Successfully loaded: stem.model.res2.bn.num_batches_tracked
+Successfully loaded: stem.model.res3.conv.0.conv.weight
+Successfully loaded: stem.model.res3.conv.0.bn.weight
+Successfully loaded: stem.model.res3.conv.0.bn.bias
+Successfully loaded: stem.model.res3.conv.0.bn.running_mean
+Successfully loaded: stem.model.res3.conv.0.bn.running_var
+Successfully loaded: stem.model.res3.conv.0.bn.num_batches_tracked
+Successfully loaded: stem.model.res3.conv.1.conv.weight
+Successfully loaded: stem.model.res3.conv.1.bn.weight
+Successfully loaded: stem.model.res3.conv.1.bn.bias
+Successfully loaded: stem.model.res3.conv.1.bn.running_mean
+Successfully loaded: stem.model.res3.conv.1.bn.running_var
+Successfully loaded: stem.model.res3.conv.1.bn.num_batches_tracked
+Successfully loaded: stem.model.res3.conv1.weight
+Successfully loaded: stem.model.res3.conv1.bias
+Successfully loaded: stem.model.res3.bn.weight
+Successfully loaded: stem.model.res3.bn.bias
+Successfully loaded: stem.model.res3.bn.running_mean
+Successfully loaded: stem.model.res3.bn.running_var
+Successfully loaded: stem.model.res3.bn.num_batches_tracked
+Successfully loaded: stem.trans_dim.conv.weight
+Successfully loaded: stem.trans_dim.bn.weight
+Successfully loaded: stem.trans_dim.bn.bias
+Successfully loaded: stem.trans_dim.bn.running_mean
+Successfully loaded: stem.trans_dim.bn.running_var
+Successfully loaded: stem.trans_dim.bn.num_batches_tracked
+Successfully loaded: encoder.0.block.0.SlayerNorm.weight
+Successfully loaded: encoder.0.block.0.SlayerNorm.bias
+Successfully loaded: encoder.0.block.0.ElayerNorm.weight
+Successfully loaded: encoder.0.block.0.ElayerNorm.bias
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.query_layer.weight
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.query_layer.bias
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.key_layer.weight
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.key_layer.bias
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.value_layer.weight
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.value_layer.bias
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.out.weight
+Skipped:encoder.0.block.0.CSAttention.win_atten.attention.out.bias
+Skipped:encoder.0.block.0.CSAttention.dlightconv.linear.weight
+Skipped:encoder.0.block.0.CSAttention.dlightconv.linear.bias
+Skipped:encoder.0.block.0.CSAttention.global_atten.query_layer.weight
+Skipped:encoder.0.block.0.CSAttention.global_atten.query_layer.bias
+Skipped:encoder.0.block.0.CSAttention.global_atten.key_layer.weight
+Skipped:encoder.0.block.0.CSAttention.global_atten.key_layer.bias
+Skipped:encoder.0.block.0.CSAttention.global_atten.value_layer.weight
+Skipped:encoder.0.block.0.CSAttention.global_atten.value_layer.bias
+Skipped:encoder.0.block.0.CSAttention.global_atten.out.weight
+Skipped:encoder.0.block.0.CSAttention.global_atten.out.bias
+Skipped:encoder.0.block.0.CSAttention.gaussiantrans.bias
+Skipped:encoder.0.block.0.CSAttention.gaussiantrans.shift
+Skipped:encoder.0.block.0.CSAttention.queeze.weight
+Skipped:encoder.0.block.0.CSAttention.queeze.bias
+Successfully loaded: encoder.0.block.0.EAttention.query_liner.weight
+Successfully loaded: encoder.0.block.0.EAttention.query_liner.bias
+Skipped:encoder.0.block.0.EAttention.linear_0.weight
+Skipped:encoder.0.block.0.EAttention.linear_0.bias
+Skipped:encoder.0.block.0.EAttention.linear_1.weight
+Skipped:encoder.0.block.0.EAttention.linear_1.bias
+Successfully loaded: encoder.0.block.0.EAttention.proj.weight
+Successfully loaded: encoder.0.block.0.EAttention.proj.bias
+Successfully loaded: encoder.0.block.1.SlayerNorm.weight
+Successfully loaded: encoder.0.block.1.SlayerNorm.bias
+Successfully loaded: encoder.0.block.1.ElayerNorm.weight
+Successfully loaded: encoder.0.block.1.ElayerNorm.bias
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.query_layer.weight
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.query_layer.bias
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.key_layer.weight
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.key_layer.bias
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.value_layer.weight
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.value_layer.bias
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.out.weight
+Skipped:encoder.0.block.1.CSAttention.win_atten.attention.out.bias
+Skipped:encoder.0.block.1.CSAttention.dlightconv.linear.weight
+Skipped:encoder.0.block.1.CSAttention.dlightconv.linear.bias
+Skipped:encoder.0.block.1.CSAttention.global_atten.query_layer.weight
+Skipped:encoder.0.block.1.CSAttention.global_atten.query_layer.bias
+Skipped:encoder.0.block.1.CSAttention.global_atten.key_layer.weight
+Skipped:encoder.0.block.1.CSAttention.global_atten.key_layer.bias
+Skipped:encoder.0.block.1.CSAttention.global_atten.value_layer.weight
+Skipped:encoder.0.block.1.CSAttention.global_atten.value_layer.bias
+Skipped:encoder.0.block.1.CSAttention.global_atten.out.weight
+Skipped:encoder.0.block.1.CSAttention.global_atten.out.bias
+Skipped:encoder.0.block.1.CSAttention.gaussiantrans.bias
+Skipped:encoder.0.block.1.CSAttention.gaussiantrans.shift
+Skipped:encoder.0.block.1.CSAttention.queeze.weight
+Skipped:encoder.0.block.1.CSAttention.queeze.bias
+Successfully loaded: encoder.0.block.1.EAttention.query_liner.weight
+Successfully loaded: encoder.0.block.1.EAttention.query_liner.bias
+Skipped:encoder.0.block.1.EAttention.linear_0.weight
+Skipped:encoder.0.block.1.EAttention.linear_0.bias
+Skipped:encoder.0.block.1.EAttention.linear_1.weight
+Skipped:encoder.0.block.1.EAttention.linear_1.bias
+Successfully loaded: encoder.0.block.1.EAttention.proj.weight
+Successfully loaded: encoder.0.block.1.EAttention.proj.bias
+Successfully loaded: encoder.0.block.2.conv.weight
+Successfully loaded: encoder.0.block.2.bn.weight
+Successfully loaded: encoder.0.block.2.bn.bias
+Successfully loaded: encoder.0.block.2.bn.running_mean
+Successfully loaded: encoder.0.block.2.bn.running_var
+Successfully loaded: encoder.0.block.2.bn.num_batches_tracked
+Successfully loaded: encoder.1.block.0.SlayerNorm.weight
+Successfully loaded: encoder.1.block.0.SlayerNorm.bias
+Successfully loaded: encoder.1.block.0.ElayerNorm.weight
+Successfully loaded: encoder.1.block.0.ElayerNorm.bias
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.query_layer.weight
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.query_layer.bias
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.key_layer.weight
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.key_layer.bias
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.value_layer.weight
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.value_layer.bias
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.out.weight
+Skipped:encoder.1.block.0.CSAttention.win_atten.attention.out.bias
+Skipped:encoder.1.block.0.CSAttention.dlightconv.linear.weight
+Skipped:encoder.1.block.0.CSAttention.dlightconv.linear.bias
+Skipped:encoder.1.block.0.CSAttention.global_atten.query_layer.weight
+Skipped:encoder.1.block.0.CSAttention.global_atten.query_layer.bias
+Skipped:encoder.1.block.0.CSAttention.global_atten.key_layer.weight
+Skipped:encoder.1.block.0.CSAttention.global_atten.key_layer.bias
+Skipped:encoder.1.block.0.CSAttention.global_atten.value_layer.weight
+Skipped:encoder.1.block.0.CSAttention.global_atten.value_layer.bias
+Skipped:encoder.1.block.0.CSAttention.global_atten.out.weight
+Skipped:encoder.1.block.0.CSAttention.global_atten.out.bias
+Skipped:encoder.1.block.0.CSAttention.gaussiantrans.bias
+Skipped:encoder.1.block.0.CSAttention.gaussiantrans.shift
+Skipped:encoder.1.block.0.CSAttention.queeze.weight
+Skipped:encoder.1.block.0.CSAttention.queeze.bias
+Successfully loaded: encoder.1.block.0.EAttention.query_liner.weight
+Successfully loaded: encoder.1.block.0.EAttention.query_liner.bias
+Skipped:encoder.1.block.0.EAttention.linear_0.weight
+Skipped:encoder.1.block.0.EAttention.linear_0.bias
+Skipped:encoder.1.block.0.EAttention.linear_1.weight
+Skipped:encoder.1.block.0.EAttention.linear_1.bias
+Successfully loaded: encoder.1.block.0.EAttention.proj.weight
+Successfully loaded: encoder.1.block.0.EAttention.proj.bias
+Successfully loaded: encoder.1.block.1.SlayerNorm.weight
+Successfully loaded: encoder.1.block.1.SlayerNorm.bias
+Successfully loaded: encoder.1.block.1.ElayerNorm.weight
+Successfully loaded: encoder.1.block.1.ElayerNorm.bias
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.query_layer.weight
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.query_layer.bias
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.key_layer.weight
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.key_layer.bias
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.value_layer.weight
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.value_layer.bias
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.out.weight
+Skipped:encoder.1.block.1.CSAttention.win_atten.attention.out.bias
+Skipped:encoder.1.block.1.CSAttention.dlightconv.linear.weight
+Skipped:encoder.1.block.1.CSAttention.dlightconv.linear.bias
+Skipped:encoder.1.block.1.CSAttention.global_atten.query_layer.weight
+Skipped:encoder.1.block.1.CSAttention.global_atten.query_layer.bias
+Skipped:encoder.1.block.1.CSAttention.global_atten.key_layer.weight
+Skipped:encoder.1.block.1.CSAttention.global_atten.key_layer.bias
+Skipped:encoder.1.block.1.CSAttention.global_atten.value_layer.weight
+Skipped:encoder.1.block.1.CSAttention.global_atten.value_layer.bias
+Skipped:encoder.1.block.1.CSAttention.global_atten.out.weight
+Skipped:encoder.1.block.1.CSAttention.global_atten.out.bias
+Skipped:encoder.1.block.1.CSAttention.gaussiantrans.bias
+Skipped:encoder.1.block.1.CSAttention.gaussiantrans.shift
+Skipped:encoder.1.block.1.CSAttention.queeze.weight
+Skipped:encoder.1.block.1.CSAttention.queeze.bias
+Successfully loaded: encoder.1.block.1.EAttention.query_liner.weight
+Successfully loaded: encoder.1.block.1.EAttention.query_liner.bias
+Skipped:encoder.1.block.1.EAttention.linear_0.weight
+Skipped:encoder.1.block.1.EAttention.linear_0.bias
+Skipped:encoder.1.block.1.EAttention.linear_1.weight
+Skipped:encoder.1.block.1.EAttention.linear_1.bias
+Successfully loaded: encoder.1.block.1.EAttention.proj.weight
+Successfully loaded: encoder.1.block.1.EAttention.proj.bias
+Successfully loaded: encoder.1.block.2.conv.weight
+Successfully loaded: encoder.1.block.2.bn.weight
+Successfully loaded: encoder.1.block.2.bn.bias
+Successfully loaded: encoder.1.block.2.bn.running_mean
+Successfully loaded: encoder.1.block.2.bn.running_var
+Successfully loaded: encoder.1.block.2.bn.num_batches_tracked
+Successfully loaded: bottleneck.0.SlayerNorm.weight
+Successfully loaded: bottleneck.0.SlayerNorm.bias
+Successfully loaded: bottleneck.0.ElayerNorm.weight
+Successfully loaded: bottleneck.0.ElayerNorm.bias
+Skipped:bottleneck.0.CSAttention.win_atten.attention.query_layer.weight
+Skipped:bottleneck.0.CSAttention.win_atten.attention.query_layer.bias
+Skipped:bottleneck.0.CSAttention.win_atten.attention.key_layer.weight
+Skipped:bottleneck.0.CSAttention.win_atten.attention.key_layer.bias
+Skipped:bottleneck.0.CSAttention.win_atten.attention.value_layer.weight
+Skipped:bottleneck.0.CSAttention.win_atten.attention.value_layer.bias
+Skipped:bottleneck.0.CSAttention.win_atten.attention.out.weight
+Skipped:bottleneck.0.CSAttention.win_atten.attention.out.bias
+Skipped:bottleneck.0.CSAttention.dlightconv.linear.weight
+Skipped:bottleneck.0.CSAttention.dlightconv.linear.bias
+Skipped:bottleneck.0.CSAttention.global_atten.query_layer.weight
+Skipped:bottleneck.0.CSAttention.global_atten.query_layer.bias
+Skipped:bottleneck.0.CSAttention.global_atten.key_layer.weight
+Skipped:bottleneck.0.CSAttention.global_atten.key_layer.bias
+Skipped:bottleneck.0.CSAttention.global_atten.value_layer.weight
+Skipped:bottleneck.0.CSAttention.global_atten.value_layer.bias
+Skipped:bottleneck.0.CSAttention.global_atten.out.weight
+Skipped:bottleneck.0.CSAttention.global_atten.out.bias
+Skipped:bottleneck.0.CSAttention.gaussiantrans.bias
+Skipped:bottleneck.0.CSAttention.gaussiantrans.shift
+Skipped:bottleneck.0.CSAttention.queeze.weight
+Skipped:bottleneck.0.CSAttention.queeze.bias
+Successfully loaded: bottleneck.0.EAttention.query_liner.weight
+Successfully loaded: bottleneck.0.EAttention.query_liner.bias
+Skipped:bottleneck.0.EAttention.linear_0.weight
+Skipped:bottleneck.0.EAttention.linear_0.bias
+Skipped:bottleneck.0.EAttention.linear_1.weight
+Skipped:bottleneck.0.EAttention.linear_1.bias
+Successfully loaded: bottleneck.0.EAttention.proj.weight
+Successfully loaded: bottleneck.0.EAttention.proj.bias
+Successfully loaded: bottleneck.1.SlayerNorm.weight
+Successfully loaded: bottleneck.1.SlayerNorm.bias
+Successfully loaded: bottleneck.1.ElayerNorm.weight
+Successfully loaded: bottleneck.1.ElayerNorm.bias
+Skipped:bottleneck.1.CSAttention.win_atten.attention.query_layer.weight
+Skipped:bottleneck.1.CSAttention.win_atten.attention.query_layer.bias
+Skipped:bottleneck.1.CSAttention.win_atten.attention.key_layer.weight
+Skipped:bottleneck.1.CSAttention.win_atten.attention.key_layer.bias
+Skipped:bottleneck.1.CSAttention.win_atten.attention.value_layer.weight
+Skipped:bottleneck.1.CSAttention.win_atten.attention.value_layer.bias
+Skipped:bottleneck.1.CSAttention.win_atten.attention.out.weight
+Skipped:bottleneck.1.CSAttention.win_atten.attention.out.bias
+Skipped:bottleneck.1.CSAttention.dlightconv.linear.weight
+Skipped:bottleneck.1.CSAttention.dlightconv.linear.bias
+Skipped:bottleneck.1.CSAttention.global_atten.query_layer.weight
+Skipped:bottleneck.1.CSAttention.global_atten.query_layer.bias
+Skipped:bottleneck.1.CSAttention.global_atten.key_layer.weight
+Skipped:bottleneck.1.CSAttention.global_atten.key_layer.bias
+Skipped:bottleneck.1.CSAttention.global_atten.value_layer.weight
+Skipped:bottleneck.1.CSAttention.global_atten.value_layer.bias
+Skipped:bottleneck.1.CSAttention.global_atten.out.weight
+Skipped:bottleneck.1.CSAttention.global_atten.out.bias
+Skipped:bottleneck.1.CSAttention.gaussiantrans.bias
+Skipped:bottleneck.1.CSAttention.gaussiantrans.shift
+Skipped:bottleneck.1.CSAttention.queeze.weight
+Skipped:bottleneck.1.CSAttention.queeze.bias
+Successfully loaded: bottleneck.1.EAttention.query_liner.weight
+Successfully loaded: bottleneck.1.EAttention.query_liner.bias
+Skipped:bottleneck.1.EAttention.linear_0.weight
+Skipped:bottleneck.1.EAttention.linear_0.bias
+Skipped:bottleneck.1.EAttention.linear_1.weight
+Skipped:bottleneck.1.EAttention.linear_1.bias
+Successfully loaded: bottleneck.1.EAttention.proj.weight
+Successfully loaded: bottleneck.1.EAttention.proj.bias
+Successfully loaded: decoder.0.block.0.weight
+Successfully loaded: decoder.0.block.0.bias
+Successfully loaded: decoder.0.block.1.weight
+Successfully loaded: decoder.0.block.1.bias
+Successfully loaded: decoder.0.block.2.SlayerNorm.weight
+Successfully loaded: decoder.0.block.2.SlayerNorm.bias
+Successfully loaded: decoder.0.block.2.ElayerNorm.weight
+Successfully loaded: decoder.0.block.2.ElayerNorm.bias
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.query_layer.weight
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.query_layer.bias
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.key_layer.weight
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.key_layer.bias
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.value_layer.weight
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.value_layer.bias
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.out.weight
+Skipped:decoder.0.block.2.CSAttention.win_atten.attention.out.bias
+Skipped:decoder.0.block.2.CSAttention.dlightconv.linear.weight
+Skipped:decoder.0.block.2.CSAttention.dlightconv.linear.bias
+Skipped:decoder.0.block.2.CSAttention.global_atten.query_layer.weight
+Skipped:decoder.0.block.2.CSAttention.global_atten.query_layer.bias
+Skipped:decoder.0.block.2.CSAttention.global_atten.key_layer.weight
+Skipped:decoder.0.block.2.CSAttention.global_atten.key_layer.bias
+Skipped:decoder.0.block.2.CSAttention.global_atten.value_layer.weight
+Skipped:decoder.0.block.2.CSAttention.global_atten.value_layer.bias
+Skipped:decoder.0.block.2.CSAttention.global_atten.out.weight
+Skipped:decoder.0.block.2.CSAttention.global_atten.out.bias
+Skipped:decoder.0.block.2.CSAttention.gaussiantrans.bias
+Skipped:decoder.0.block.2.CSAttention.gaussiantrans.shift
+Skipped:decoder.0.block.2.CSAttention.queeze.weight
+Skipped:decoder.0.block.2.CSAttention.queeze.bias
+Successfully loaded: decoder.0.block.2.EAttention.query_liner.weight
+Successfully loaded: decoder.0.block.2.EAttention.query_liner.bias
+Skipped:decoder.0.block.2.EAttention.linear_0.weight
+Skipped:decoder.0.block.2.EAttention.linear_0.bias
+Skipped:decoder.0.block.2.EAttention.linear_1.weight
+Skipped:decoder.0.block.2.EAttention.linear_1.bias
+Successfully loaded: decoder.0.block.2.EAttention.proj.weight
+Successfully loaded: decoder.0.block.2.EAttention.proj.bias
+Successfully loaded: decoder.0.block.3.SlayerNorm.weight
+Successfully loaded: decoder.0.block.3.SlayerNorm.bias
+Successfully loaded: decoder.0.block.3.ElayerNorm.weight
+Successfully loaded: decoder.0.block.3.ElayerNorm.bias
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.query_layer.weight
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.query_layer.bias
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.key_layer.weight
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.key_layer.bias
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.value_layer.weight
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.value_layer.bias
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.out.weight
+Skipped:decoder.0.block.3.CSAttention.win_atten.attention.out.bias
+Skipped:decoder.0.block.3.CSAttention.dlightconv.linear.weight
+Skipped:decoder.0.block.3.CSAttention.dlightconv.linear.bias
+Skipped:decoder.0.block.3.CSAttention.global_atten.query_layer.weight
+Skipped:decoder.0.block.3.CSAttention.global_atten.query_layer.bias
+Skipped:decoder.0.block.3.CSAttention.global_atten.key_layer.weight
+Skipped:decoder.0.block.3.CSAttention.global_atten.key_layer.bias
+Skipped:decoder.0.block.3.CSAttention.global_atten.value_layer.weight
+Skipped:decoder.0.block.3.CSAttention.global_atten.value_layer.bias
+Skipped:decoder.0.block.3.CSAttention.global_atten.out.weight
+Skipped:decoder.0.block.3.CSAttention.global_atten.out.bias
+Skipped:decoder.0.block.3.CSAttention.gaussiantrans.bias
+Skipped:decoder.0.block.3.CSAttention.gaussiantrans.shift
+Skipped:decoder.0.block.3.CSAttention.queeze.weight
+Skipped:decoder.0.block.3.CSAttention.queeze.bias
+Successfully loaded: decoder.0.block.3.EAttention.query_liner.weight
+Successfully loaded: decoder.0.block.3.EAttention.query_liner.bias
+Skipped:decoder.0.block.3.EAttention.linear_0.weight
+Skipped:decoder.0.block.3.EAttention.linear_0.bias
+Skipped:decoder.0.block.3.EAttention.linear_1.weight
+Skipped:decoder.0.block.3.EAttention.linear_1.bias
+Successfully loaded: decoder.0.block.3.EAttention.proj.weight
+Successfully loaded: decoder.0.block.3.EAttention.proj.bias
+Successfully loaded: decoder.1.block.0.weight
+Successfully loaded: decoder.1.block.0.bias
+Successfully loaded: decoder.1.block.1.SlayerNorm.weight
+Successfully loaded: decoder.1.block.1.SlayerNorm.bias
+Successfully loaded: decoder.1.block.1.ElayerNorm.weight
+Successfully loaded: decoder.1.block.1.ElayerNorm.bias
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.query_layer.weight
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.query_layer.bias
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.key_layer.weight
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.key_layer.bias
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.value_layer.weight
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.value_layer.bias
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.out.weight
+Skipped:decoder.1.block.1.CSAttention.win_atten.attention.out.bias
+Skipped:decoder.1.block.1.CSAttention.dlightconv.linear.weight
+Skipped:decoder.1.block.1.CSAttention.dlightconv.linear.bias
+Skipped:decoder.1.block.1.CSAttention.global_atten.query_layer.weight
+Skipped:decoder.1.block.1.CSAttention.global_atten.query_layer.bias
+Skipped:decoder.1.block.1.CSAttention.global_atten.key_layer.weight
+Skipped:decoder.1.block.1.CSAttention.global_atten.key_layer.bias
+Skipped:decoder.1.block.1.CSAttention.global_atten.value_layer.weight
+Skipped:decoder.1.block.1.CSAttention.global_atten.value_layer.bias
+Skipped:decoder.1.block.1.CSAttention.global_atten.out.weight
+Skipped:decoder.1.block.1.CSAttention.global_atten.out.bias
+Skipped:decoder.1.block.1.CSAttention.gaussiantrans.bias
+Skipped:decoder.1.block.1.CSAttention.gaussiantrans.shift
+Skipped:decoder.1.block.1.CSAttention.queeze.weight
+Skipped:decoder.1.block.1.CSAttention.queeze.bias
+Successfully loaded: decoder.1.block.1.EAttention.query_liner.weight
+Successfully loaded: decoder.1.block.1.EAttention.query_liner.bias
+Skipped:decoder.1.block.1.EAttention.linear_0.weight
+Skipped:decoder.1.block.1.EAttention.linear_0.bias
+Skipped:decoder.1.block.1.EAttention.linear_1.weight
+Skipped:decoder.1.block.1.EAttention.linear_1.bias
+Successfully loaded: decoder.1.block.1.EAttention.proj.weight
+Successfully loaded: decoder.1.block.1.EAttention.proj.bias
+Successfully loaded: decoder.1.block.2.SlayerNorm.weight
+Successfully loaded: decoder.1.block.2.SlayerNorm.bias
+Successfully loaded: decoder.1.block.2.ElayerNorm.weight
+Successfully loaded: decoder.1.block.2.ElayerNorm.bias
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.query_layer.weight
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.query_layer.bias
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.key_layer.weight
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.key_layer.bias
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.value_layer.weight
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.value_layer.bias
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.out.weight
+Skipped:decoder.1.block.2.CSAttention.win_atten.attention.out.bias
+Skipped:decoder.1.block.2.CSAttention.dlightconv.linear.weight
+Skipped:decoder.1.block.2.CSAttention.dlightconv.linear.bias
+Skipped:decoder.1.block.2.CSAttention.global_atten.query_layer.weight
+Skipped:decoder.1.block.2.CSAttention.global_atten.query_layer.bias
+Skipped:decoder.1.block.2.CSAttention.global_atten.key_layer.weight
+Skipped:decoder.1.block.2.CSAttention.global_atten.key_layer.bias
+Skipped:decoder.1.block.2.CSAttention.global_atten.value_layer.weight
+Skipped:decoder.1.block.2.CSAttention.global_atten.value_layer.bias
+Skipped:decoder.1.block.2.CSAttention.global_atten.out.weight
+Skipped:decoder.1.block.2.CSAttention.global_atten.out.bias
+Skipped:decoder.1.block.2.CSAttention.gaussiantrans.bias
+Skipped:decoder.1.block.2.CSAttention.gaussiantrans.shift
+Skipped:decoder.1.block.2.CSAttention.queeze.weight
+Skipped:decoder.1.block.2.CSAttention.queeze.bias
+Successfully loaded: decoder.1.block.2.EAttention.query_liner.weight
+Successfully loaded: decoder.1.block.2.EAttention.query_liner.bias
+Skipped:decoder.1.block.2.EAttention.linear_0.weight
+Skipped:decoder.1.block.2.EAttention.linear_0.bias
+Skipped:decoder.1.block.2.EAttention.linear_1.weight
+Skipped:decoder.1.block.2.EAttention.linear_1.bias
+Successfully loaded: decoder.1.block.2.EAttention.proj.weight
+Successfully loaded: decoder.1.block.2.EAttention.proj.bias
+Successfully loaded: decoder_stem.block.trans1.weight
+Successfully loaded: decoder_stem.block.trans1.bias
+Successfully loaded: decoder_stem.block.res1.conv.0.conv.weight
+Successfully loaded: decoder_stem.block.res1.conv.0.bn.weight
+Successfully loaded: decoder_stem.block.res1.conv.0.bn.bias
+Successfully loaded: decoder_stem.block.res1.conv.0.bn.running_mean
+Successfully loaded: decoder_stem.block.res1.conv.0.bn.running_var
+Successfully loaded: decoder_stem.block.res1.conv.0.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res1.conv.1.conv.weight
+Successfully loaded: decoder_stem.block.res1.conv.1.bn.weight
+Successfully loaded: decoder_stem.block.res1.conv.1.bn.bias
+Successfully loaded: decoder_stem.block.res1.conv.1.bn.running_mean
+Successfully loaded: decoder_stem.block.res1.conv.1.bn.running_var
+Successfully loaded: decoder_stem.block.res1.conv.1.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res1.conv1.weight
+Successfully loaded: decoder_stem.block.res1.conv1.bias
+Successfully loaded: decoder_stem.block.res1.bn.weight
+Successfully loaded: decoder_stem.block.res1.bn.bias
+Successfully loaded: decoder_stem.block.res1.bn.running_mean
+Successfully loaded: decoder_stem.block.res1.bn.running_var
+Successfully loaded: decoder_stem.block.res1.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.trans2.weight
+Successfully loaded: decoder_stem.block.trans2.bias
+Successfully loaded: decoder_stem.block.res2.conv.0.conv.weight
+Successfully loaded: decoder_stem.block.res2.conv.0.bn.weight
+Successfully loaded: decoder_stem.block.res2.conv.0.bn.bias
+Successfully loaded: decoder_stem.block.res2.conv.0.bn.running_mean
+Successfully loaded: decoder_stem.block.res2.conv.0.bn.running_var
+Successfully loaded: decoder_stem.block.res2.conv.0.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res2.conv.1.conv.weight
+Successfully loaded: decoder_stem.block.res2.conv.1.bn.weight
+Successfully loaded: decoder_stem.block.res2.conv.1.bn.bias
+Successfully loaded: decoder_stem.block.res2.conv.1.bn.running_mean
+Successfully loaded: decoder_stem.block.res2.conv.1.bn.running_var
+Successfully loaded: decoder_stem.block.res2.conv.1.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res2.conv1.weight
+Successfully loaded: decoder_stem.block.res2.conv1.bias
+Successfully loaded: decoder_stem.block.res2.bn.weight
+Successfully loaded: decoder_stem.block.res2.bn.bias
+Successfully loaded: decoder_stem.block.res2.bn.running_mean
+Successfully loaded: decoder_stem.block.res2.bn.running_var
+Successfully loaded: decoder_stem.block.res2.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.trans3.weight
+Successfully loaded: decoder_stem.block.trans3.bias
+Successfully loaded: decoder_stem.block.res3.conv.0.conv.weight
+Successfully loaded: decoder_stem.block.res3.conv.0.bn.weight
+Successfully loaded: decoder_stem.block.res3.conv.0.bn.bias
+Successfully loaded: decoder_stem.block.res3.conv.0.bn.running_mean
+Successfully loaded: decoder_stem.block.res3.conv.0.bn.running_var
+Successfully loaded: decoder_stem.block.res3.conv.0.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res3.conv.1.conv.weight
+Successfully loaded: decoder_stem.block.res3.conv.1.bn.weight
+Successfully loaded: decoder_stem.block.res3.conv.1.bn.bias
+Successfully loaded: decoder_stem.block.res3.conv.1.bn.running_mean
+Successfully loaded: decoder_stem.block.res3.conv.1.bn.running_var
+Successfully loaded: decoder_stem.block.res3.conv.1.bn.num_batches_tracked
+Successfully loaded: decoder_stem.block.res3.conv1.weight
+Successfully loaded: decoder_stem.block.res3.conv1.bias
+Successfully loaded: decoder_stem.block.res3.bn.weight
+Successfully loaded: decoder_stem.block.res3.bn.bias
+Successfully loaded: decoder_stem.block.res3.bn.running_mean
+Successfully loaded: decoder_stem.block.res3.bn.running_var
+Successfully loaded: decoder_stem.block.res3.bn.num_batches_tracked
+Part load failed: SegmentationHead.weight
+Part load failed: SegmentationHead.bias
